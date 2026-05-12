@@ -2,7 +2,7 @@
 
 This is a beginner-friendly web scraping practice project built with Python, BeautifulSoup, and Pandas.
 
-The script reads a saved HTML file, extracts car listing information, and exports the data to an Excel file.
+Python scraper practice project that extracts car listing data and exports it to Excel.
 
 ## Extracted Data
 
